@@ -288,6 +288,7 @@ button[type="submit"]{
   footer .contact{ display: flex; flex-direction: column; align-items: center; padding-top: 15px;}
   footer .contact p {padding-bottom: 5px;}
   footer .payment {padding-top: 10px;}
+  .nav { width:0;}
   
   
 }
